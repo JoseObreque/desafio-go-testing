@@ -1,0 +1,15 @@
+mode: set
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/handler.go:16.37,20.2 1 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/handler.go:22.49,24.20 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/handler.go:24.20,27.3 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/handler.go:28.2,29.16 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/handler.go:29.16,32.3 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/handler.go:33.2,33.25 1 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/repository.go:9.33,11.2 1 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/repository.go:13.73,22.2 3 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/repository_mock.go:11.77,14.2 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/repository_mock.go:17.42,19.2 1 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/service.go:13.42,17.2 1 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/service.go:19.70,21.16 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/service.go:21.16,24.3 2 1
+github.com/bootcamp-go/desafio-cierre-testing/internal/products/service.go:25.2,25.18 1 1
